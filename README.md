@@ -12,11 +12,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## HELLO! 🏎️🏎️🏎️ 
-Welcome to my GitHub! 
+# HELLO! 🏎️🏎️🏎️ 
+Aspiring software engineer, entrepreneur, and thinker. I’ve worked at [WHOOP](http://whoop.com/) and [Zwift](https://zwift.com/) and I’m currently a Founding Engineer at [Pareto](http://hellopareto.com/), a Stanford-based tech startup.
 
-### Favorite Languages:
-Java, JavaScript, Python
+<a href="https://www.linkedin.com/in/nicoledanuwidjaja/">
+  <img align="left" alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/thenickyflash">
+  <img align="left" alt="Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+
+## Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicoledanuwidjaja&show_icons=true)
 
 ### TODO List:
 - Build Blockchain in Go
@@ -31,6 +39,3 @@ Java, JavaScript, Python
 [My Videos](https://www.youtube.com/channel/UCgAGSpR6DPXyRoFWDtQYUfQ)
 
 [My Website](https://danuwidjaja.com/)
-
-## Summary of Me
-Aspiring software engineer, entrepreneur, and thinker. I’ve worked at WHOOP and Zwift and I’m currently a Founding Engineer at Pareto, a Stanford-based tech startup.
