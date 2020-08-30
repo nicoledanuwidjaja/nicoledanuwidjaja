@@ -22,8 +22,8 @@ Aspiring software engineer, entrepreneur, and thinker. I’ve worked at [WHOOP](
   <img align="left" alt="Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
+# About me
 
-## Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicoledanuwidjaja&show_icons=true)
 
 ### TODO List:
