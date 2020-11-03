@@ -29,6 +29,7 @@ Since I was little, my dream was to work as a game developer for Supercell, the 
 - Contributed to an [open-source platform](https://github.com/webaverse/xrpackage) for distributed in-browser VR/AR applications using Three.js, WebGL, and Node.js.
 - Created a [web application](https://master.d2ezegqjichq73.amplifyapp.com/) for Black Lives Matter live event updates, an image anonymizer tool, and resources, created using Amazon Amplify, n8n (open source workflow automation tool), React, and GCP.
 - Scraped the 2020 U.S. Presidential Candidates' tweets using Tweepy and created a [web application](https://github.com/vkong6019/scrapetheprez) to compare candidates' tweets on political keywords.
+- Researched and experimented with an [encryption scheme](https://github.com/indefinities/Homo-Encrypt-Facebook-Data) for securely enabling encrypted Facebook personal data to be used by third parties.
 - Attended 8 hackathons to date across the U.S., winning awards at [TechTogether Boston](https://devpost.com/software/miraimessage) and [YHack](https://devpost.com/software/garbadoor).
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicoledanuwidjaja&show_icons=true)
