@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 # HELLO! 🏎️🏎️🏎️ 
 Incoming software engineering intern at [Datadog](https://www.datadoghq.com/). Aspiring software engineer, entrepreneur, and thinker. I’ve worked at [WHOOP](http://whoop.com/) and [Zwift](https://zwift.com/) and I’m currently a Founding Engineer at [Pareto](http://hellopareto.com/), a Stanford-based tech startup.
 
+<a href="https://www.linkedin.com/in/nicoledanuwidjaja/">
+  <img alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/thenickyflash">
+  <img alt="Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
 ## About Me
 Since I was little, my dream was to work as a game developer for Supercell, the maker of the very popular and addicting game, Clash of Clans. When I was 13, after I saw the instant success of Flappy Bird, I made it my life's mission to study computer science so that one day, I could create my own app.
 
@@ -24,13 +31,6 @@ Since I was little, my dream was to work as a game developer for Supercell, the 
 - Scraped the 2020 U.S. Presidential Candidates' tweets using Tweepy and created a [web application](https://github.com/vkong6019/scrapetheprez) to compare candidates' tweets on political keywords.
 - Attended 8 hackathons to date across the U.S., winning awards at [TechTogether Boston](https://devpost.com/software/miraimessage) and [YHack](https://devpost.com/software/garbadoor).
 
-
-<a href="https://www.linkedin.com/in/nicoledanuwidjaja/">
-  <img align="left" alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/thenickyflash">
-  <img align="left" alt="Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicoledanuwidjaja&show_icons=true)
 
