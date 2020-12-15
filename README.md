@@ -31,8 +31,3 @@ Since I was little, my dream was to work as a game developer for Supercell, the 
 - Scraped the 2020 U.S. Presidential Candidates' tweets using Tweepy and created a [web application](https://github.com/vkong6019/scrapetheprez) to compare candidates' tweets on political keywords.
 - Researched and experimented with an [encryption scheme](https://github.com/indefinities/Homo-Encrypt-Facebook-Data) for securely enabling encrypted Facebook personal data to be used by third parties.
 - Attended 8 hackathons to date across the U.S., winning awards at [TechTogether Boston](https://devpost.com/software/miraimessage) and [YHack](https://devpost.com/software/garbadoor).
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicoledanuwidjaja&show_icons=true)
-
-### Current Hot Topic:
-[OpenAI GPT-3](https://www.technologyreview.com/2020/07/20/1005454/openai-machine-learning-language-generator-gpt-3-nlp/)
