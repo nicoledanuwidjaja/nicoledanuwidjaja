@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # HELLO! 🏎️🏎️🏎️ 
-Incoming software engineering intern at [Datadog](https://www.datadoghq.com/) and [Salesforce](https://www.salesforce.com/). Aspiring software engineer, entrepreneur, and thinker. I’ve worked at [WHOOP](http://whoop.com/) and [Zwift](https://zwift.com/) and was a Founding Engineer at [Pareto](http://hellopareto.com/), a Stanford-based tech startup.
+Software engineering intern at [Datadog](https://www.datadoghq.com/) working on [APM Go Tracer](https://docs.datadoghq.com/tracing/setup_overview/setup/go/?tab=containers) and [Agent](https://docs.datadoghq.com/agent/). Aspiring software engineer, entrepreneur, and thinker. I’ve worked at [WHOOP](http://whoop.com/) and [Zwift](https://zwift.com/) and was a Founding Engineer at [Pareto](http://hellopareto.com/), a Stanford-based tech startup.
 
 ![Java](https://img.shields.io/static/v1?message=Java&logo=java&labelColor=c3c3c3&color=f89820&label=%20)
 ![JavaScript](https://img.shields.io/static/v1?message=JavaScript&logo=JavaScript&labelColor=c5c5c5&color=F7DF1E&label=%20)
@@ -24,7 +24,7 @@ Incoming software engineering intern at [Datadog](https://www.datadoghq.com/) an
 [View my quirky website! (in progress)](https://nicoledanuwidjaja.github.io/)
 
 ## About Me
-Since I was little, my dream was to work as a game developer for Supercell, the maker of the very popular and addicting game, Clash of Clans. When I was 13, after I saw the instant success of Flappy Bird, I made it my life's mission to study computer science so that I could create my own app company.
+Since I was little, my dream was to work as a game developer for Supercell, the maker of the very popular and addicting game, Clash of Clans. When I was 13, after I saw the instant success of Flappy Bird, I wanted to study computer science so that I could create my own app company.
 
 ### Cool tech things I've done
 - Contributed to an [open-source platform](https://github.com/webaverse/xrpackage) for distributed in-browser VR/AR applications using Three.js, WebGL, and Node.js.
