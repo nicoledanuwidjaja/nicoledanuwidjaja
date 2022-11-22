@@ -13,22 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # HELLO! 🏎️🏎️🏎️ 
-Software engineering intern at [Datadog](https://www.datadoghq.com/) working on [APM Go Tracer](https://docs.datadoghq.com/tracing/setup_overview/setup/go/?tab=containers) and [Agent](https://docs.datadoghq.com/agent/). Aspiring software engineer, entrepreneur, and thinker. I’ve worked at [WHOOP](http://whoop.com/) and [Zwift](https://zwift.com/) and was a Founding Engineer at [Pareto](http://hellopareto.com/), a Stanford-based tech startup.
+I'm a software engineer at [Datadog](https://www.datadoghq.com/) working on scaling, maintaining, and improving our [distributions metrics platform](https://docs.datadoghq.com/metrics/distributions/). My current tech interests lie in breaking large-scale distributed systems, building responsive mobile app trackers, and fiddling with IoT devices.
 
-![Java](https://img.shields.io/static/v1?message=Java&logo=java&labelColor=c3c3c3&color=f89820&label=%20)
+Previously, I was working on [APM Go Tracer](https://docs.datadoghq.com/tracing/setup_overview/setup/go/?tab=containers) and [Agent](https://docs.datadoghq.com/agent/). Aspiring software engineer, entrepreneur, and thinker. I’ve also interned at [WHOOP](http://whoop.com/), [Zwift](https://zwift.com/), [Salesforce](https://www.salesforce.com/), and was a founding engineer at [Pareto](http://hellopareto.com/).
+
+![Go](https://img.shields.io/static/v1?message=Go&logo=Go&labelColor=fff&color=00ADD8&label=%20)
+![Java](https://img.shields.io/static/v1?message=Java&logo=Java&labelColor=c3c3c3&color=f89820&label=%20)
 ![JavaScript](https://img.shields.io/static/v1?message=JavaScript&logo=JavaScript&labelColor=c5c5c5&color=F7DF1E&label=%20)
 ![Python](https://img.shields.io/static/v1?message=Python&logo=Python&labelColor=fff&color=3776AB&label=%20)
-![Go](https://img.shields.io/static/v1?message=Go&logo=Go&labelColor=fff&color=00ADD8&label=%20)
 ![Swift](https://img.shields.io/static/v1?message=Swift&logo=Swift&labelColor=fff&color=FA7343&label=%20)
 
 [View my quirky website! (in progress)](https://nicoledanuwidjaja.github.io/)
 
-## About Me
-Since I was little, my dream was to work as a game developer for Supercell, the maker of the very popular and addicting game, Clash of Clans. When I was 13, after I saw the instant success of Flappy Bird, I wanted to study computer science so that I could create my own app company.
 
-### Cool tech things I've done
-- Contributed to an [open-source platform](https://github.com/webaverse/xrpackage) for distributed in-browser VR/AR applications using Three.js, WebGL, and Node.js.
-- Created a [web application](https://master.d2ezegqjichq73.amplifyapp.com/) for Black Lives Matter live event updates, an image anonymizer tool, and resources, created using Amazon Amplify, n8n (open source workflow automation tool), React, and GCP.
-- Scraped the 2020 U.S. Presidential Candidates' tweets using Tweepy and created a [web application](https://github.com/vkong6019/scrapetheprez) to compare candidates' tweets on political keywords.
-- Researched and experimented with an [encryption scheme](https://github.com/indefinities/Homo-Encrypt-Facebook-Data) for securely enabling encrypted Facebook personal data to be used by third parties.
-- Attended 8 hackathons to date across the U.S., winning awards at [TechTogether Boston](https://devpost.com/software/miraimessage) and [YHack](https://devpost.com/software/garbadoor).
+
